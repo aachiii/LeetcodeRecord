@@ -12,7 +12,7 @@ My leetcode solutions
 ### DFS
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
-1 | Content from cell 1 | Content from cell 2 | Medium | ...
+1 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking
 2 | Content in the first column | Content in the second column | Medium | ...
 
 ### BFS
