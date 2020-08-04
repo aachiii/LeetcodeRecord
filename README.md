@@ -13,7 +13,7 @@ My leetcode solutions
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
 1 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking
-2 | Content in the first column | Content in the second column | Medium | ...
+2 | . | Content in the second column | Medium | ...
 
 ### BFS
 '- | # | Title | Type | Memo
@@ -26,3 +26,10 @@ My leetcode solutions
 ------------ | ------------ | ------------- | ------------ | ------------- |
 1 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | graph represented by a list of edges
 2 | Content in the first column | Content in the second column | Medium | ...
+
+
+### Math
+'- | # | Title | Type | Memo
+------------ | ------------ | ------------- | ------------ | ------------- |
+1 | 43 | [..](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking
+2 | . | Content in the second column | Medium | ...
