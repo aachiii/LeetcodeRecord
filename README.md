@@ -25,11 +25,11 @@ My leetcode solutions
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
 1 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | graph represented by a list of edges
-2 | Content in the first column | Content in the second column | Medium | ...
+2 | . | Content in the second column | Medium | ...
 
 
 ### Math
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
-1 | 43 | [..](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking
+1 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | String product calculator
 2 | . | Content in the second column | Medium | ...
