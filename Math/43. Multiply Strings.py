@@ -27,4 +27,14 @@ class Solution:
             res[i] += carry
         res = "".join(map(str, res))
         return '0' if not res.lstrip("0") else res.lstrip("0")
+
     
+'''
+Get rid of old way of thinking and product way.
+
+最长的答案为len(num1) + len(num2），所以先规定结果这么长
+
+从后往前添加答案，每一次都更新carry和res[]，从后往前更新，tmp记得要加上上一次的carry
+
+最后结果去掉前面的0
+'''
