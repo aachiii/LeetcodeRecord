@@ -40,3 +40,11 @@ class Solution:
             print(max_profit)
 
         return total_max
+      
+'''
+
+First traversal gets maximum profit until x day.
+Second backward traversal gets maximum profit since x day.
+
+'''
+
