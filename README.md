@@ -6,8 +6,8 @@ My leetcode solutions
 ### DP
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
-1 | Content from cell 1 | Content from cell 2 | Medium | ...
-2 | Content in the first column | Content in the second column | Medium | ...
+1 | 123 | Best Time to Buy and Sell Stock III | Hard | Tricky
+2 | . | Content in the second column | Medium | ...
 
 ### DFS
 '- | # | Title | Type | Memo
