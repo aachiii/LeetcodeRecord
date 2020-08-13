@@ -33,3 +33,9 @@ My leetcode solutions
 ------------ | ------------ | ------------- | ------------ | ------------- |
 1 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | String product calculator
 2 | . | Content in the second column | Medium | ...
+
+### Tree
+'- | # | Title | Type | Memo
+------------ | ------------ | ------------- | ------------ | ------------- |
+1 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Recursive
+2 | . | Content in the second column | Medium | ...
