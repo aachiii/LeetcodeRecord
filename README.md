@@ -39,3 +39,9 @@ My leetcode solutions
 ------------ | ------------ | ------------- | ------------ | ------------- |
 1 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Recursive
 2 | . | Content in the second column | Medium | ...
+
+### Array
+'- | # | Title | Type | Memo
+------------ | ------------ | ------------- | ------------ | ------------- |
+1 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Two Pointer/Binary search
+2 | . | Content in the second column | Medium | ...
