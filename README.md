@@ -43,5 +43,6 @@ My leetcode solutions
 ### Array
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
-1 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Two Pointer/Binary search
+1 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Two Pointer / Binary search
+2 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | heap / Binary Search
 2 | . | Content in the second column | Medium | ...
