@@ -37,10 +37,17 @@ My leetcode solutions
 ### Tree
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
-1 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Recursive
+1 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Recursive / dfs
 
 ### Array
 '- | # | Title | Type | Memo
 ------------ | ------------ | ------------- | ------------ | ------------- |
 1 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Two Pointer / Binary search
 2 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | heap / Binary Search
+
+### LinkedList
+'- | # | Title | Type | Memo
+------------ | ------------ | ------------- | ------------ | ------------- |
+1 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy | Recursive / iterative
+2 | 86 | [Partition List](https://leetcode.com/problems/partition-list/)| Medium | Two Pointer
+
