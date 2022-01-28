@@ -39,6 +39,7 @@ My leetcode solutions
 1 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Recursive / dfs
 2 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | Recursive / dfs / bfs
 3 | 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | dfs
+4 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | dfs / Recursive
 
 ### Array
 ~ | # | Title | Type | Memo
@@ -46,7 +47,8 @@ My leetcode solutions
 1 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Two Pointer / Binary search
 2 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | heap / Binary Search
 3 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointer
-3 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Greedy
+4 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Greedy
+5 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Sliding Window / Google
 
 ### LinkedList
 ~ | # | Title | Type | Memo
